@@ -9,6 +9,10 @@ setround(1): round toward upward
 setround(2): round Round toward zero
 </pre>
 
+build
+
+% mkoctfile --mex setround.c
+
 ## references
 
 Linux 数値計算ツール、大石進一、コロナ社、2000年, in japanese 
