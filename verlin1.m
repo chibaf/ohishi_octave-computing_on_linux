@@ -34,7 +34,7 @@ if D>0
   error=Rr_norm/D;
   kappa=Gu*ones(N,1);
   error2=Rru+(error*kappa);
-  com_wise_erro=error2
+  com_wise_error=error2
   cwerror=max(error2);
 else
   puts('false\n');
