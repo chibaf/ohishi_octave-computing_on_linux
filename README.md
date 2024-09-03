@@ -18,7 +18,7 @@ build
 
 ![image](https://github.com/user-attachments/assets/d68f62bb-c1a1-43b0-88ee-bf1b662638aa)
 
-calc o  Apple silicon mac
+calculations on Apple silicon mac
 
 <pre>
 octave:17> verlin1
