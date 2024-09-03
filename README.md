@@ -20,7 +20,7 @@ build
 calc o  Apple silicon mac
 
 <pre>
-octave:16> verlin1
+octave:17> verlin1
 solution =
 
   -2.890839694656481e+01
@@ -37,14 +37,13 @@ Rrd =
    6.139957075423132e-14
    1.297418491555842e-13
 
-com_wise_erro =
+com_wise_error =
 
    1.869107074373569e-13
    2.468277208294456e-13
    2.280697542047365e-13
    6.139957075424161e-14
    1.297418491555893e-13
-
 </pre>
 
 ## references
