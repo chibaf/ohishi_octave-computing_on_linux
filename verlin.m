@@ -27,14 +27,14 @@ setround(-1); % down
 Rrd=abs(R*center+abs(R)*radius)
 D=1-G_norm;
 if D>0
- setround(1); %  up
- Rru=max(Rrd,Rru);
- Rr_norm=norm(Rru,inf);
- error=Rr_norm/D;
- kappa=Gu*ones(N,1);
- error2=Rru+(error*kappa);
- com_wise_erro=error2
- cwerorr=max(error2);
+  setround(1); %  up
+  Rru=max(Rrd,Rru);
+  Rr_norm=norm(Rru,inf);
+  error=Rr_norm/D;
+  kappa=Gu*ones(N,1);
+  error2=Rru+(error*kappa);
+  com_wise_erro=error2
+  cwerorr=max(error2);
 else
- puts('false\n');
+  puts('false\n');
 endif 
