@@ -64,3 +64,11 @@ https://siko1056.github.io/blog/2021/12/23/octave-matlab-directed-rounding.html
 Rounding modes (The GNU C Library) 
 
 https://www.gnu.org/software/libc/manual/html_node/Rounding.html
+
+GNU Octave
+
+https://octave.org
+
+Octave for macOS - Octave
+
+https://wiki.octave.org/Octave_for_macOS
