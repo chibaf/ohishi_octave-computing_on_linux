@@ -4,6 +4,7 @@
 % setround(1): round toward upward
 % setround(2): round Round toward zero
 clear
+format longE
 N=20
 A=rand(N);
 b=rand(N,1);
@@ -34,7 +35,7 @@ if D>0
   kappa=Gu*ones(N,1);
   error2=Rru+(error*kappa);
   com_wise_erro=error2
-  cwerorr=max(error2);
+  cwerror=max(error2);
 else
   puts('false\n');
 endif 
