@@ -1,6 +1,7 @@
 # ohishi_octave-computing_on_linux (macOS)
 ohishi_octave-computing_on_linux
 
+## setround: set a round direction on GNU Octave
 <pre>
 usage:
   setround(-1): round toward downward
