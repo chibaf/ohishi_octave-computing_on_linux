@@ -13,6 +13,11 @@ build
 
 % mkoctfile --mex setround.c
 
+## sample calc
+
+![image](https://github.com/user-attachments/assets/d68f62bb-c1a1-43b0-88ee-bf1b662638aa)
+
+
 ## references
 
 Linux 数値計算ツール、大石進一、コロナ社、2000年, in japanese 
